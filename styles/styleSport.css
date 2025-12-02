@@ -1,0 +1,36 @@
+body
+{
+	background-color: #C8D2F0; 
+	font-size: 1em;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	color: black;
+}
+
+h1, h2
+{
+	font-weight: bold;
+	font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
+	color: #9160a1;
+}
+
+h1
+{
+	font-size: 200%;
+}
+
+a:link
+{
+	text-decoration: underline;
+	color: #466498; 
+}
+
+a:visited
+{
+	text-decoration: underline;
+	color: #466498;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
